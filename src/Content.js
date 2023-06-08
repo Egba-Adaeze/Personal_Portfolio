@@ -1,7 +1,7 @@
 // import images
 import Hero_person from "./assets/images/Hero/person.jpg";
 
-import javascript from "./assets/images/Skills/Javascript.png";
+import javascript from "./assets/images/Skills/javascript.png";
 import coreldraw from "./assets/images/Skills/coreldraw.webp";
 import project from "./assets/images/Skills/project.png";
 import reactjs from "./assets/images/Skills/react.png";
