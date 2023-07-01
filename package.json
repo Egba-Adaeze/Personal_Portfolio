@@ -9,6 +9,7 @@
     "predeploy": "npm run build",
      "deploy": "-b master -d build",
     "build": "vite build",
+    "start": "main.js"
     "preview": "vite preview"
   },
   "dependencies": {
